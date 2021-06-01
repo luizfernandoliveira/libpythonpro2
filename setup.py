@@ -103,7 +103,7 @@ URL = "https://github.com/luizfernandoliveira/libpythonpro2"
 VERSION = __import__(PACKAGE).__version__
 
 setup(
-    name=NAME,
+    name='libpythonpro2_fer',
     version=VERSION,
     description=DESCRIPTION,
     long_description=read('README.md'),
