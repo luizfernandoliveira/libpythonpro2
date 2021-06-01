@@ -6,7 +6,7 @@ pyflakes==2.3.1
 #Deps Pytest
 pluggy=1.0.0
 attrs==19.2.0
-py==1.8.2
+py==1.10.0
 pyparsing==2.0.2
 toml-0.10.2
 iniconfig-1.1.1
